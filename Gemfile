@@ -9,3 +9,5 @@ gem 'rspec'
 gem 'cucumber'
 gem 'colorize'
 gem 'ci_reporter'
+gem 'headless'
+
